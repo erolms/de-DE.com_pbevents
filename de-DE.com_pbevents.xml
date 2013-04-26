@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="file" version="2.5" method="upgrade">
+	<name>Purple Beanies Events Manager - Deutsche Sprachdateien</name>
+	<version>1.0.0</version>
+	<creationDate>21.04.2013</creationDate>
+	<author>Erol Zavidic</author>		
+	<authorUrl>http://www.muenster-pages.de</authorUrl>
+	<authorEmail>webmaster@muenster-pages.de</authorEmail>
+	<copyright>Copyright (C) 2013 Erol Zavidic. Alle Rechte vorbehalten.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL version 2</license>
+	<description><![CDATA[
+			<p><strong>Sprachdatei für die Komponente/Version:</strong> Purple Beanie Events Manager 0.3.1 (de-DE.com_pbevents)<br /><br />
+	    	<strong>Sprache:</strong> Deutsch (formell)<br />
+	    	<strong>Bereich:</strong> Administrator - Administrationsbereich (Backend) und Site - Benutzerbereich (Frontend)<br />
+	    	<strong>Autor:</strong> Erol Zavidic (<a target="_blank" href="http://www.muenster-pages.de">www.muenster-pages.de</a>) für <a target="_blank" href="http://www.purplebeanie.com/Site-Pages/pbevents.html">www.purplebeanie.com</a>.<br />
+	    	<strong>Übersetzungsversion:</strong> 1.0.0<br /><br />
+        	</p>
+        ]]></description>
+	<fileset>
+		<files target="administrator/language/de-DE">
+			<filename>de-DE.com_pbevents.ini</filename>
+			<filename>de-DE.com_pbevents.sys.ini</filename>
+			<filename>de-DE.plg_content_pbevents.ini</filename>
+			<filename>de-DE.plg_content_pbevents.sys.ini</filename>
+		</files>
+	</fileset>
+</extension>
