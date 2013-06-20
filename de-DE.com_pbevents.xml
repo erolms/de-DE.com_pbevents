@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <extension type="file" version="2.5" method="upgrade">
 	<name>Purple Beanies Events Manager - Deutsche Sprachdateien</name>
-	<version>1.0.1</version>
-	<creationDate>28.04.2013</creationDate>
+	<version>1.0.2</version>
+	<creationDate>20.06.2013</creationDate>
 	<author>Erol Zavidic</author>		
 	<authorUrl>http://www.muenster-pages.de</authorUrl>
 	<authorEmail>webmaster@muenster-pages.de</authorEmail>
@@ -13,7 +13,7 @@
 	    	<strong>Sprache:</strong> Deutsch (formell)<br />
 	    	<strong>Bereich:</strong> Administrator - Administrationsbereich (Backend) und Site - Benutzerbereich (Frontend)<br />
 	    	<strong>Autor:</strong> Erol Zavidic (<a target="_blank" href="http://www.muenster-pages.de">www.muenster-pages.de</a>) für <a target="_blank" href="http://www.purplebeanie.com/Site-Pages/pbevents.html">www.purplebeanie.com</a>.<br />
-	    	<strong>Übersetzungsversion:</strong> 1.0.1<br /><br />
+	    	<strong>Übersetzungsversion:</strong> 1.0.2<br /><br />
         	</p>
         ]]></description>
 	<fileset>
